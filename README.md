@@ -3,3 +3,6 @@
 importing a specific icon named 'FaTimes' from 'Font Awesome Package'.
 ### The 'FaTimes color='purple' tag
 The value of the button will be a × with purple color.
+## In RatingSelect.jsx
+### +e.currentTarget.value
+The current rating number that is selected, will be change from string to number. The + is for typecasting.
