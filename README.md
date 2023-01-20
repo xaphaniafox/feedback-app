@@ -1,3 +1,5 @@
+### Pages folder
+Components that has their own routes.
 ## In FeedbackItem.jsx
 ### import { FaTimes } from 'react-icons/fa'
 importing a specific icon named 'FaTimes' from 'Font Awesome Package'.
